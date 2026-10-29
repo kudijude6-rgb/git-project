@@ -1,0 +1,26 @@
+p{
+    color: blue;
+    font-weight: 400;
+}
+h1{
+    color: green;
+    margin-top: 0px;
+    font-style: italic;
+    padding-top: 100px; 
+}
+    button:hover{
+        background-color: white;
+    }
+    .hero{
+        background-image: url(pexel.jpg);
+        margin: opx;
+        height: 400px;
+        text-align: center;
+        align-items: center;
+    }
+    body{
+        background-image: 
+        url(../../Pictures/20260607_124310.jpg);
+        margin: 0px;
+        padding-top: 0px;
+    }
